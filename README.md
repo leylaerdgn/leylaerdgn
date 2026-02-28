@@ -16,15 +16,6 @@
   </a>
 </p>
 
-<hr/>
-
-## ✨ Hakkımda
-- 🎯 Hedef: **AI Developer / ML Engineer** olarak gelişmek  
-- 🧠 İlgi alanları: **NLP, Recommendation Systems, LLM uygulamaları**
-- 🎬 Proje: **Modflix – Duygu & metin benzerliği ile film öneri sistemi**
-- ✍️ Medium: AI/ML üzerine yazılar yazıyorum
-
-<hr/>
 
 ## 🌐 Sosyal Medya
 <p align="left">
