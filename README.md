@@ -19,13 +19,13 @@
 
 ## 🌐 Sosyal Medya
 <p align="left">
-  <a href="LINKEDIN_LINKIN" target="_blank">
+  <a href="www.linkedin.com/in/leyla-erdoğan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="MEDIUM_LINKIN" target="_blank">
+  <a href="https://medium.com/@leylaerdogann" target="_blank">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
-  <a href="MAILTO:MAILIN" target="_blank">
+  <a href="erdoganleyla98@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -53,15 +53,6 @@
 
 <hr/>
 
-## 📌 Öne Çıkan Projeler
-- 🎬 **Modflix** – Emotion + semantic similarity ile film öneri sistemi  
-  👉 Repo: https://github.com/leylaerdgn/Modflix
-
 
 <hr/>
 
-## 📊 GitHub İstatistikleri
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=leylaerdgn&show_icons=true&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leylaerdgn&layout=compact&hide_border=true" />
-</p>
