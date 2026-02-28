@@ -2,7 +2,10 @@
 <h1 align="left">✨ Hakkımda</h1>
 <p align="left">
  Merhaba, ben Leyla Erdoğan,
- Fırat Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. <b>Yapay Zeka (AI) ve NLP</b> alanındaki becerilerimi geliştiriyorum
+ Fırat Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. 
+ 
+ <b>Yapay Zeka (AI) ve NLP</b> alanındaki becerilerimi geliştiriyorum
+ 
  AI destekli sistemler tasarlamayı ve gerçek dünya problemlerine çözüm üretmeyi hedefliyorum.
 </p>
 
