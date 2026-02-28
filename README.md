@@ -35,7 +35,7 @@
 
 <hr/>
 
-## 💻 Teknoloji Altyapısı
+## 💻 Teknik Yetkinlikler
 
 <p align="left">
 
