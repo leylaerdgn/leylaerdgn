@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="left">💫 Hakkımda</h1>
+<h1 align="left">✨ Hakkımda</h1>
 <p align="left">
  Merhaba, ben Leyla Erdoğan,
  Fırat Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. <b>Yapay Zeka (AI) ve NLP</b> alanındaki becerilerimi geliştiriyorum
