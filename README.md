@@ -1,7 +1,7 @@
 <!-- Header -->
 <h1 align="left">Merhaba, ben Leyla 👋</h1>
 <p align="left">
-  Bilgisayar Mühendisliği öğrencisiyim. <b>Yapay Zeka (AI), NLP</b> ve <b>Full-Stack</b> geliştirme alanında projeler üretiyorum.
+ Fırat Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. <b>Yapay Zeka (AI), NLP</b> alanındaki becerilerimi geliştiriyorum
 </p>
 
 <!-- Quick badges -->
