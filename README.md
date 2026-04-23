@@ -2,15 +2,10 @@
 <h1 align="left">✨ Hakkımda</h1>
 <p align="left">
 Merhaba, ben Leyla 👋
- 
-Fırat Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Yazılıma olan ilgim, sadece kod yazmanın ötesinde; özellikle Yapay Zeka (AI) ve Doğal Dil İşleme (NLP) alanlarında kendimi geliştirerek gerçek dünya problemlerine akıllı çözümler üretmeye odaklanıyorum.
 
-Projelerimde genellikle AI destekli sistemler geliştirmeyi, veriyi anlamlandırmayı ve kullanıcıya değer sağlayan uygulamalar oluşturmayı hedefliyorum. Öğrenme sürecimde sadece teknik bilgiye değil, aynı zamanda problem çözme becerilerine ve sistematik düşünmeye de önem veriyorum.
+Fırat Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Kendimi, farklı alanları deneyimleyerek gelişen ve yönünü oluşturan bir geliştirici olarak tanımlıyorum. Şu anda özellikle yapay zeka ile ilgileniyor; aynı zamanda frontend ve backend tarafında projeler geliştirerek full-stack bakış açısı kazanmaya çalışıyorum. Benim için yazılım sadece kod yazmak değil, bir fikri uçtan uca hayata geçirmek ve kullanıcıya değer sağlayan sistemler oluşturmak demek. Öğrenme sürecimde farklı teknolojileri denemeyi, arayüz tasarımıyla uğraşmayı ve sistemlerin arka planını anlamayı seviyorum. Her yeni proje, benim için hem teknik hem de düşünsel olarak geliştiğim bir deneyim oluyor. Hedefim; yapay zeka odaklı düşünerek, hem frontend hem backend tarafında güçlü ve anlamlı projeler geliştirebilen bir yazılım mühendisi olmak.
 
-Yeni teknolojileri keşfetmek, farklı bakış açıları kazanmak ve kendimi sürekli geliştirmek benim için önemli. Aynı zamanda üretmeyi, öğrendiklerimi paylaşmayı ve projeler üzerinden deneyim kazanmayı seviyorum.
-
-Hedefim; yapay zeka alanında derinleşerek güçlü, etkili ve ölçeklenebilir sistemler geliştiren bir mühendis olmak.
-</p>
+Teknik olarak kendimi geliştirmeye odaklansam da, iletişim kurabilmenin ve ekip içinde uyumlu çalışmanın en az teknik bilgi kadar önemli olduğuna inanıyorum. Farklı insanlarla tanışmak, birlikte üretmek ve yeni bakış açıları kazanmak beni motive ediyor. Yazılım dışında piyano çalmak ve tenis oynamak hayatımın bir parçası. Bu uğraşlar hem disiplinimi güçlendiriyor hem de zihinsel olarak dengede kalmamı sağlıyor. Sürekli öğrenmeye, üretmeye ve kendimi ileri taşımaya istekliyim. Bu yolculuğun en değerli kısmının ise yalnız ilerlemek değil, başkalarıyla birlikte gelişmek olduğunu düşünüyorum.</p>
 
 <!-- Quick badges -->
 <p align="left">
