@@ -1,11 +1,13 @@
 <!-- Header -->
 <h1 align="left">✨ Hakkımda</h1>
-<sub align="left">
+<p align="left">
 Merhaba, ben Leyla 👋
 
+<sub>
 Fırat Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Kendimi, farklı alanları deneyimleyerek gelişen ve yönünü oluşturan bir geliştirici olarak tanımlıyorum. Şu anda özellikle yapay zeka ile ilgileniyor; aynı zamanda frontend ve backend tarafında projeler geliştirerek full-stack bakış açısı kazanmaya çalışıyorum. Benim için yazılım sadece kod yazmak değil, bir fikri uçtan uca hayata geçirmek ve kullanıcıya değer sağlayan sistemler oluşturmak demek. Öğrenme sürecimde farklı teknolojileri denemeyi, arayüz tasarımıyla uğraşmayı ve sistemlerin arka planını anlamayı seviyorum. Her yeni proje, benim için hem teknik hem de düşünsel olarak geliştiğim bir deneyim oluyor. Hedefim; yapay zeka odaklı düşünerek, hem frontend hem backend tarafında güçlü ve anlamlı projeler geliştirebilen bir yazılım mühendisi olmak.
 
-Teknik olarak kendimi geliştirmeye odaklansam da, iletişim kurabilmenin ve ekip içinde uyumlu çalışmanın en az teknik bilgi kadar önemli olduğuna inanıyorum. Farklı insanlarla tanışmak, birlikte üretmek ve yeni bakış açıları kazanmak beni motive ediyor. Yazılım dışında piyano çalmak ve tenis oynamak hayatımın bir parçası. Bu uğraşlar hem disiplinimi güçlendiriyor hem de zihinsel olarak dengede kalmamı sağlıyor. Sürekli öğrenmeye, üretmeye ve kendimi ileri taşımaya istekliyim. Bu yolculuğun en değerli kısmının ise yalnız ilerlemek değil, başkalarıyla birlikte gelişmek olduğunu düşünüyorum.</sub>
+Teknik olarak kendimi geliştirmeye odaklansam da, iletişim kurabilmenin ve ekip içinde uyumlu çalışmanın en az teknik bilgi kadar önemli olduğuna inanıyorum. Farklı insanlarla tanışmak, birlikte üretmek ve yeni bakış açıları kazanmak beni motive ediyor. Yazılım dışında piyano çalmak ve tenis oynamak hayatımın bir parçası. Bu uğraşlar hem disiplinimi güçlendiriyor hem de zihinsel olarak dengede kalmamı sağlıyor. Sürekli öğrenmeye, üretmeye ve kendimi ileri taşımaya istekliyim. Bu yolculuğun en değerli kısmının ise yalnız ilerlemek değil, başkalarıyla birlikte gelişmek olduğunu düşünüyorum.
+</sub>
 
 <!-- Quick badges -->
 <p align="left">
