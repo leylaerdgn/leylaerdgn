@@ -1,12 +1,15 @@
 <!-- Header -->
 <h1 align="left">✨ Hakkımda</h1>
 <p align="left">
- Merhaba, ben Leyla Erdoğan,
- Fırat Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. 
+Merhaba, ben Leyla 👋
  
- <b>Yapay Zeka (AI) ve NLP</b> alanındaki becerilerimi geliştiriyorum
- 
- AI destekli sistemler tasarlamayı ve gerçek dünya problemlerine çözüm üretmeyi hedefliyorum.
+Fırat Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Yazılıma olan ilgim, sadece kod yazmanın ötesinde; özellikle Yapay Zeka (AI) ve Doğal Dil İşleme (NLP) alanlarında kendimi geliştirerek gerçek dünya problemlerine akıllı çözümler üretmeye odaklanıyorum.
+
+Projelerimde genellikle AI destekli sistemler geliştirmeyi, veriyi anlamlandırmayı ve kullanıcıya değer sağlayan uygulamalar oluşturmayı hedefliyorum. Öğrenme sürecimde sadece teknik bilgiye değil, aynı zamanda problem çözme becerilerine ve sistematik düşünmeye de önem veriyorum.
+
+Yeni teknolojileri keşfetmek, farklı bakış açıları kazanmak ve kendimi sürekli geliştirmek benim için önemli. Aynı zamanda üretmeyi, öğrendiklerimi paylaşmayı ve projeler üzerinden deneyim kazanmayı seviyorum.
+
+Hedefim; yapay zeka alanında derinleşerek güçlü, etkili ve ölçeklenebilir sistemler geliştiren bir mühendis olmak.
 </p>
 
 <!-- Quick badges -->
@@ -56,8 +59,11 @@
 ## 📊 GitHub İstatistikleri
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=leylaerdgn&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leylaerdgn&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=leylaerdgn&show_icons=true&theme=tokyonight" height="180"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leylaerdgn&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 
