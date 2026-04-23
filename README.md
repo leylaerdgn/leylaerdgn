@@ -52,10 +52,12 @@
 
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=leylaerdgn&show_icons=true&theme=tokyonight" />
-</p>
+
+## 📊 GitHub İstatistikleri
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leylaerdgn&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=leylaerdgn&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leylaerdgn&layout=compact&theme=tokyonight" height="150"/>
 </p>
+
+
