@@ -34,7 +34,7 @@ Teknik olarak kendimi geliştirmeye odaklansam da, iletişim kurabilmenin ve eki
 
 <hr/>
 
-### 💻 Teknik Yetkinlikler
+## 💻 Teknik Yetkinlikler
 
 <p align="left">
 
@@ -62,7 +62,7 @@ Teknik olarak kendimi geliştirmeye odaklansam da, iletişim kurabilmenin ve eki
 
 </p>
 
-####  Öne Çıkan Projeler
+##  Öne Çıkan Projeler
 
 | Proje | Tanım | Roller ve Teknolojiler |
 |---|---|---|
