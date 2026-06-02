@@ -34,7 +34,7 @@ Teknik olarak kendimi geliştirmeye odaklansam da, iletişim kurabilmenin ve eki
 
 <hr/>
 
-## 💻 Teknik Yetkinlikler
+### 💻 Teknik Yetkinlikler
 
 <p align="left">
 
@@ -62,7 +62,7 @@ Teknik olarak kendimi geliştirmeye odaklansam da, iletişim kurabilmenin ve eki
 
 </p>
 
-##  Öne Çıkan Projeler
+####  Öne Çıkan Projeler
 
 | Proje | Tanım | Roller ve Teknolojiler |
 |---|---|---|
@@ -73,12 +73,12 @@ Teknik olarak kendimi geliştirmeye odaklansam da, iletişim kurabilmenin ve eki
 ## 📊 GitHub İstatistikleri
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leylaerdgn&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leylaerdgn&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=leylaerdgn&show_icons=true&theme=tokyonight&hide_border=true" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leylaerdgn&layout=compact&theme=tokyonight&hide_border=true" width="42%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leylaerdgn&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leylaerdgn&theme=tokyonight&hide_border=true" width="45%" />
 </p>
 
 
