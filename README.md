@@ -62,6 +62,13 @@ Teknik olarak kendimi geliştirmeye odaklansam da, iletişim kurabilmenin ve eki
 
 </p>
 
+##  Öne Çıkan Projeler
+
+| Proje | Tanım | Roller ve Teknolojiler |
+|---|---|---|
+| **Modflix – AI-Powered Movie Recommendation System** | Film açıklamaları üzerinden duygu analizi ve anlamsal benzerlik kullanarak kullanıcıya benzer filmler öneren yapay zeka destekli film öneri sistemi. Sentence Transformers ile embedding üretildi ve cosine similarity ile öneriler oluşturuldu. | Python, Flask, Sentence Transformers, NumPy, TMDB API, NLP |
+| **Akıllı Bürokrasi Asistanı – AI/NLP Module** | Kullanıcının bürokrasiyle ilgili sorularını anlayıp ilgili işlemi tespit eden ve gerekli belgeler, kurum bilgisi, başvuru sitesi ve adımları döndüren NLP tabanlı asistan modülü. | Python, FastAPI, Sentence Transformers, PyTorch, JSON, pytest, NLP |
+| **E-Commerce Stock Management System** | Ürün ekleme, silme, güncelleme, listeleme ve dosyaya kaydetme işlemlerini destekleyen Java tabanlı stok yönetim sistemi. OOP prensipleri kullanılarak geliştirildi. | Java, Java Swing, File I/O, ArrayList, OOP |
 
 ## 📊 GitHub İstatistikleri
 
