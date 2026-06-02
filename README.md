@@ -72,12 +72,13 @@ Teknik olarak kendimi geliştirmeye odaklansam da, iletişim kurabilmenin ve eki
 
 ## 📊 GitHub İstatistikleri
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=leylaerdgn&show_icons=true&theme=tokyonight" height="180"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leylaerdgn&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leylaerdgn&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leylaerdgn&layout=compact&theme=tokyonight" height="180"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leylaerdgn&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
 
