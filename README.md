@@ -3,9 +3,9 @@
 <p align="left">
 Merhaba, ben Leyla 👋
 
-Fırat Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Kendimi, farklı alanları deneyimleyerek gelişen ve yönünü oluşturan bir geliştirici olarak tanımlıyorum. Şu anda özellikle yapay zeka ile ilgileniyor; aynı zamanda frontend ve backend tarafında projeler geliştirerek full-stack bakış açısı kazanmaya çalışıyorum. Öğrenme sürecimde farklı teknolojileri denemeyi, arayüz tasarımıyla uğraşmayı ve sistemlerin arka planını anlamayı seviyorum. Hedefim; yapay zeka odaklı düşünerek, hem frontend hem backend tarafında güçlü ve anlamlı projeler geliştirebilen bir yazılım mühendisi olmak.
+Fırat Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencisiyim. Backend geliştirme alanında ilerliyor, yazılım sistemlerinin tasarımı ve arka planda çalışan süreçler üzerine çalışıyorum. Gerçek problemlere çözüm üreten projeler geliştirmeyi, yeni teknolojiler öğrenmeyi ve kendimi sürekli geliştirmeyi seviyorum.
 
-Teknik olarak kendimi geliştirmeye odaklansam da, iletişim kurabilmenin ve ekip içinde uyumlu çalışmanın en az teknik bilgi kadar önemli olduğuna inanıyorum. Farklı insanlarla tanışmak, birlikte üretmek ve yeni bakış açıları kazanmak beni motive ediyor. Yazılım dışında piyano çalmak ve tenis oynamak hayatımın bir parçası. Bu uğraşlar hem disiplinimi güçlendiriyor hem de zihinsel olarak dengede kalmamı sağlıyor. Sürekli öğrenmeye, üretmeye ve kendimi ileri taşımaya istekliyim. 
+Teknik becerilerin yanı sıra iletişim ve ekip çalışmasının da başarılı projelerin önemli bir parçası olduğuna inanıyorum. Yazılım dışında piyano çalmayı ve tenis oynamayı seviyorum.
 
 
 <!-- Quick badges -->
@@ -38,6 +38,28 @@ Teknik olarak kendimi geliştirmeye odaklansam da, iletişim kurabilmenin ve eki
 
 <p align="left">
 
+    <!-- Backend -->
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  
+  <!-- API & Integration -->
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/SOAP-0A66C2?style=for-the-badge"/>
+  
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+  
+  <!-- Database -->
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  
+  <!-- Data -->
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/XML-005FAD?style=for-the-badge"/>
+  
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <!-- Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   
@@ -66,6 +88,7 @@ Teknik olarak kendimi geliştirmeye odaklansam da, iletişim kurabilmenin ve eki
 
 | Proje | Tanım | Roller ve Teknolojiler |
 |---|---|---|
+| **InvoiceSync – ERP & e-Invoice Integration Platform** | ERP sistemlerinden faturaların okunması, işlenmesi ve e-Fatura platformları ile senkronize edilmesini sağlayan entegrasyon projesi. WebSocket tabanlı istemci-sunucu mimarisi ile gerçek zamanlı veri iletişimi sağlandı; farklı veritabanları ve entegrasyon senaryoları için merkezi bir yapı geliştirildi. | C#, .NET, WebSocket, SQL Server, REST API, SOAP, JSON, ERP Integration |
 | **Modflix – AI-Powered Movie Recommendation System** | Film açıklamaları üzerinden duygu analizi ve anlamsal benzerlik kullanarak kullanıcıya benzer filmler öneren yapay zeka destekli film öneri sistemi. Sentence Transformers ile embedding üretildi ve cosine similarity ile öneriler oluşturuldu. | Python, Flask, Sentence Transformers, NumPy, TMDB API, NLP |
 | **Akıllı Bürokrasi Asistanı – AI/NLP Module** | Kullanıcının bürokrasiyle ilgili sorularını anlayıp ilgili işlemi tespit eden ve gerekli belgeler, kurum bilgisi, başvuru sitesi ve adımları döndüren NLP tabanlı asistan modülü. | Python, FastAPI, Sentence Transformers, PyTorch, JSON, pytest, NLP |
 | **E-Commerce Stock Management System** | Ürün ekleme, silme, güncelleme, listeleme ve dosyaya kaydetme işlemlerini destekleyen Java tabanlı stok yönetim sistemi. OOP prensipleri kullanılarak geliştirildi. | Java, Java Swing, File I/O, ArrayList, OOP |
