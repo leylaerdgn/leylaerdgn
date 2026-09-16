@@ -34,7 +34,6 @@ Teknik becerilerin yanı sıra iletişim ve ekip çalışmasının da başarıl�
 
 <hr/>
 
-## 💻 Teknik Yetkinlikler
 
 ## 💻 Teknik Yetkinlikler
 
